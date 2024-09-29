@@ -107,3 +107,4 @@
 | Redmi Pad | yunluo | 2022-10-27 | MIUI Pad | ✔️ Opening |
 | Redmi Pad Pro | dizi | 2024-04-10 | Xiaomi HyperOS | ❌ Blocked |
 | Redmi Pad Pro 5G | ruan | 2024-04-10 | Xiaomi HyperOS | ❌ Blocked |
+| Redmi Note 13 NFC | sapphiren | 2024-09-29 | Xiaomi HyperOS | ✔️ Opening |
